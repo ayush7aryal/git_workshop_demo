@@ -13,8 +13,9 @@ function App() {
           return (
             <div className="card-content">
               <div className="name">{data.name}</div>
-              <div className="class">Class :{data.class}</div>
-              <div className="rollno">Roll No: {data.rollno}</div>
+              <div>{data.department}</div>
+              <div>{data.semester}</div>
+              <blockquote>{data.message}</blockquote>
             </div>
           );
         })}
