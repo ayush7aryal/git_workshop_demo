@@ -15,3 +15,8 @@
   border-radius: 20px;
   color: white;
 }
+.title {
+  display: block;
+  align-items: center;
+  color: rgb(84, 49, 4);
+}
