@@ -46,7 +46,7 @@ export const Names = [
   },
   {
     name: "Shubhechchhak",
-    class: "17",
-    rollno: "13",
+    class: "122",
+    rollno: "43",
   },
 ];
