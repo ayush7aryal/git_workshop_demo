@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
+
 .App {
   text-align: center;
 }
@@ -10,13 +12,48 @@
 }
 .card-content {
   padding: 10px 20px;
-  background: #2d2d30;
+  background: #7070db;
   margin: 10px;
-  border-radius: 20px;
+  border-radius: 10px;
   color: white;
+  font-family:Open Sans;
 }
 .title {
   display: block;
   align-items: center;
   color: rgb(84, 49, 4);
+}
+blockquote{
+  font-size: 0.7em;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 30px 1.2em 75px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;
+  border-radius: 10px;
+}
+
+blockquote::before{
+  font-family:Arial;
+  content: "\201C";
+  color:#78C0A8;
+  font-size:4em;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+blockquote::after{
+  content: '';
+}
+
+blockquote span{
+  display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;
 }
