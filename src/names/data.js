@@ -7,11 +7,19 @@ export const Names = [
   },
 
 
+
   {
     name: "Vivekananda Gupta",
     department: "Computational Mathematics",
     semester: "2nd semester",
     message: "test message" 
+},
+  {
+    name: "Ankur Baral",
+    department: "Computational Mathematics",
+    semester: "3rd semester",
+    message: "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me." 
+
 },
   {    
     name: "Shubhechchhak Pokhrel",
