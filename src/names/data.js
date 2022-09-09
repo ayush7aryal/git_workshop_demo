@@ -7,6 +7,13 @@ export const Names = [
   },
 
   {
+    name: "baniya baniya",
+    department: "Computational mathematics",
+    semester: "3rd semester",
+    message: "dhum tananananana dhum tananananana dhum tananananana" 
+},
+
+  {
     name: "prastut bhattarai",
     department: "Computer Engineering",
     semester: "3th semester",
