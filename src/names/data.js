@@ -14,6 +14,15 @@ export const Names = [
     semester: "2nd semester",
     message: "test message" 
 },
+
+{
+    name: "Pratikshya Bhattarai",
+    department: "Computer Engineering",
+    semester: "5th semester",
+    message: "If you are not there today, it doesn't mean that you won't be there tommorow!" 
+},
+
+
   {
     name: "Ankur Baral",
     department: "Computational Mathematics",
@@ -32,6 +41,7 @@ export const Names = [
       department: 'Computational Mathematics',
       semester: '5th sem',
       message: 'Dubai trainers exceeded expectations by a ton.'
+
 
   },
 ];
