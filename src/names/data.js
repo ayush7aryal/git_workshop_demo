@@ -6,6 +6,13 @@ export const Names = [
     message: "If you are not there today, it doesn't mean that you won't be there tommorow!" 
   },
 
+{
+    name: "Zaved Swikar",
+    department: "He Man Suii Engineering",
+    semester: "2nd semester",
+    message: "If you are not there today, it  mean that you won't be there tommorow!" 
+},
+
   {
     name: "baniya baniya",
     department: "Computational mathematics",
@@ -55,7 +62,6 @@ export const Names = [
       department: 'Computational Mathematics',
       semester: '5th sem',
       message: 'Dubai trainers exceeded expectations by a ton.'
-
 
 
   },
