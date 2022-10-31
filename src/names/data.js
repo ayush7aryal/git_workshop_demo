@@ -5,7 +5,12 @@ export const Names = [
     semester: "5th semester",
     message: "If you are not there today, it doesn't mean that you won't be there tommorow!" 
   },
-
+{
+    name: "Jackie Lhowa",
+    department: "Computer Engineering",
+    semester: "5th semester",
+    message: "Carpe diem" 
+  },
 {
     name: "Zaved Swikar",
     department: "He Man Suii Engineering",
