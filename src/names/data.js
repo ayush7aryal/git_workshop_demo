@@ -65,4 +65,12 @@ export const Names = [
 
 
   },
+    {
+        name: 'Abhishekh Thapaliya',
+      department: 'Civil Engineer',
+      semester: '5th sem',
+      message: 'Random raicha messages ta.'
+
+
+  },
 ];
